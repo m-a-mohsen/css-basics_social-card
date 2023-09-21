@@ -9,4 +9,17 @@ article {
   box-shadow: 5px 5px 15px 5px rgba(0,0,0,0.13) ;
   /* used shado generator https://html-css-js.com/css/generator/box-shadow/ */
 }
+article p:first-of-type{
+  font: weight 100px;;
+  
+}
+article p:last-of-type{
+  font-weight:lighter;
+  font-size: smaller;
+  color: grey;
+  
+}
+h2 {
+  text-transform:uppercase;
+}
 }
