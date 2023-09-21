@@ -25,4 +25,8 @@ article p:last-of-type{
 h2 {
   text-transform:uppercase;
 }
+button{
+  background-color: white;
+  border: 0px ;
+  color: rgb(15, 169, 230);
 }
